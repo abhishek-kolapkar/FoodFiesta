@@ -15,3 +15,19 @@ The project simulates a real-world team environment, where use Git and GitHub to
 3. Charlie - Team Leader
 4. Diana - QA Engineer
 
+### &#9755; User Authentication Feature Branch
+- Developed user-authentication
+- User can Register, Login, Logout & Delete Account
+- User can Register/Login using Google
+
+### &#9755; Order Tracking Feature Branch
+- Developed order-tracking system
+- User can track their order by order id
+- User can see live location of order
+- User will get estimate time of delivery
+
+### &#9755; Payment System Feature Branch
+- Developed payment-system
+- User can place postpaid/prepaid orders
+- For online payment - pay via UPI | Paypal | American Express
+- User can avail COD option also
